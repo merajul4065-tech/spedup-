@@ -1,0 +1,6 @@
+{
+  "name": "SwiftRide",
+  "description": "On-demand bike rides and parcel delivery with dedicated driver portal and administrative manager oversight.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
